@@ -23,11 +23,6 @@ Enfoque: Liderazgo técnico, arquitectura de soluciones y ciencia de datos
 
 Soy un **Ingeniero de Software** con más de **6 años de experiencia** diseñando, desarrollando y liderando soluciones empresariales para los sectores industrial, salud, educación y ventas. Apasionado por la tecnología, el trabajo en equipo y la creación de soluciones que generan impacto real.
 
----
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,mongodb,mysql,java,python" alt="Tech Stack Icons" />
-</div>
-
 ### Lenguajes & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -37,7 +32,7 @@ Soy un **Ingeniero de Software** con más de **6 años de experiencia** diseñan
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react" />
   </a>
 </p>
 
