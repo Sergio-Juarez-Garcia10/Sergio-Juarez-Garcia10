@@ -45,7 +45,12 @@ Soy un **Ingeniero de Software** con más de **6 años de experiencia** diseñan
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### 💻 Experiencia
 
+* **LiveFree Emergency Response** *(04/2025 - 06/2026)*
+* **PIXIR S.A. de C.V.** *(06/2018 - 03/2025)*
+
+---
 ## 🏆 Logros Destacados
 
 | 🎯 Logro | Descripción |
