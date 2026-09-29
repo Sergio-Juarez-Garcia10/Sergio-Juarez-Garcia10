@@ -26,7 +26,9 @@ Soy un **Ingeniero de Software** con más de **6 años de experiencia** diseñan
 ---
 
 ## 🛠️ Stack Tecnológico
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,express,mongodb,mysql,java,python" alt="Tech Stack Icons" />
+</div>
 ### Lenguajes & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
