@@ -16,7 +16,6 @@
 
 ```yaml
 Nombre: Sergio Juárez García
-Ubicacion: Tula de Allende, Hidalgo, México 🇲🇽
 Titulo: Ingeniero en Desarrollo y Gestión de Software
 Experiencia: 6+ años
 Especialidad: Desarrollo Full-Stack (.NET Core & React)
@@ -66,6 +65,7 @@ Soy un **Ingeniero de Software** con más de **6 años de experiencia** diseñan
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergio-Juarez-Garcia10&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Juarez-Garcia10&layout=compact&theme=tokyonight&hide_border=true)
+
 
 </div>
 
