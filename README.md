@@ -23,26 +23,13 @@ Enfoque: Liderazgo técnico, arquitectura de soluciones y ciencia de datos
 
 Soy un **Ingeniero de Software** con más de **6 años de experiencia** diseñando, desarrollando y liderando soluciones empresariales para los sectores industrial, salud, educación y ventas. Apasionado por la tecnología, el trabajo en equipo y la creación de soluciones que generan impacto real.
 
-### Lenguajes & Frameworks
+## 🛠️ Stack Tecnológico
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,arduino,azure,bootstrap,css,git,github,html,mongodb,mysql,nodejs,npm,pnpm,postman,tailwind&perline=10" />
   </a>
 </p>
-
-### Bases de Datos
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,js,react" />
-  </a>
-</p>
-
-### DevOps & Herramientas
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 ### 💻 Experiencia
