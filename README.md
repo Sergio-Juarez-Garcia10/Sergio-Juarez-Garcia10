@@ -15,12 +15,12 @@
 ## 📋 Sobre Mí
 
 ```yaml
-nombre: Sergio Juárez García
-ubicacion: Tula de Allende, Hidalgo, México 🇲🇽
-titulo: Ingeniero en Desarrollo y Gestión de Software
-experiencia: 6+ años
-especialidad: Desarrollo Full-Stack (.NET Core & React)
-enfoque: Liderazgo técnico, arquitectura de soluciones y ciencia de datos
+Nombre: Sergio Juárez García
+Ubicacion: Tula de Allende, Hidalgo, México 🇲🇽
+Titulo: Ingeniero en Desarrollo y Gestión de Software
+Experiencia: 6+ años
+Especialidad: Desarrollo Full-Stack (.NET Core & React)
+Enfoque: Liderazgo técnico, arquitectura de soluciones y ciencia de datos
 ```
 
 Soy un **Ingeniero de Software** con más de **6 años de experiencia** diseñando, desarrollando y liderando soluciones empresariales para los sectores industrial, salud, educación y ventas. Apasionado por la tecnología, el trabajo en equipo y la creación de soluciones que generan impacto real.
@@ -63,9 +63,9 @@ Soy un **Ingeniero de Software** con más de **6 años de experiencia** diseñan
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergio-juarez-garcia&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergio-Juarez-Garcia10&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-juarez-garcia&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Juarez-Garcia10&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
