@@ -12,7 +12,7 @@
 
 ```yaml
 Nombre: Sergio Juárez García
-Titulo: Ingeniero en Desarrollo y Gestión de Software
+Titulo: Ingeniero en Desarrollo y Gestión de Software Multiplataforma
 Experiencia: 6+ años
 Especialidad: Desarrollo Full-Stack (.NET Core & React)
 Enfoque: Liderazgo técnico, arquitectura de soluciones y ciencia de datos
