@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Sergio Juárez García
 
-### 🚀 Software Engineer | .NET & React Specialist | Team Leader
+### 🚀 Software Engineer | .NET & React | Team Leader
 
 </div>
 
